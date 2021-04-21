@@ -1,5 +1,11 @@
 ### Hi there 👋
+<style>
+  h1 {
+    text-align : center;
+  }
+  </style>
 <h1>I'm chic programmer</h1>
+
 <!--
 **uyeah0/uyeah0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
