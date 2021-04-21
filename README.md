@@ -1,9 +1,4 @@
 ### Hi there 👋
-<style>
-  h1 {
-    text-align : center;
-  }
-  </style>
 <h1>I'm chic programmer</h1>
 
 <!--
