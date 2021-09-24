@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyeah0&theme=midnight-purple&show_icons=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uyeah0)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uyeah0)](https://github.com/anuraghazra/github-readme-stats)
