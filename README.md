@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-4479A1?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyeah0&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyeah0&layout=compact&show_icons=true) -->
+
