@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, my name is Yeyeong
+### Hi there 👋, my name is Yu Yeyeong
 
-I want to be a developer.
+I want to be a Back-End developer.
 
-- 🌱 I’m currently learning Spring frame work 
+- 🌱 I’m currently learning Spring Framework 
 - 📫 How to reach me: s2031@e-mirim.hs.kr 
 
 <a href="https://github.com/uyeah0" target = "_blank"><image src="https://img.shields.io/badge/Github-2a2a2a?style=flat-square&logo=github&IogoColor=white"/></a> <a href="https://www.instagram.com/u_uow0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
