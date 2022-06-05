@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, my name is Yu Yeyeong
+### Hi there 👋, my name is YuYeyeong
 
 I want to be a Back-End developer.
 
