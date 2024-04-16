@@ -37,7 +37,7 @@ I want to be a Back-End developer.
 <h1 align="center">Hi 👋, I'm YuYeyeong</h1>
 
 - 🌱 I’m currently learning **React**
-
+<!--
 - 📝 I regularly write articles on [https://youknowhatimsaying.tistory.com/](https://youknowhatimsaying.tistory.com/)
 
 - 📫 How to reach me **uyeah029@gmail.com**
@@ -46,7 +46,7 @@ I want to be a Back-End developer.
 <p align="left">
 <a href="https://instagram.com/u_uow0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u_uow0" height="30" width="40" /></a>
 </p>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
